@@ -1,0 +1,1 @@
+ssh -i ~/.ssh/andrey andrey@10.156.0.3

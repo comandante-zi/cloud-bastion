@@ -1,0 +1,1 @@
+sudo openvpn --config organization_test_server.ovpn
